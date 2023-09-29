@@ -2,6 +2,7 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import joblib
+import os
 import json
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
@@ -16,16 +17,16 @@ from sklearn.impute import SimpleImputer
 app = Flask(__name__)
 CORS(app)
 
-root_top = "/home/ubuntu/duy/Telemec_AI_server/"
+root_top = os.getcwd()
 # Disease Model
-rf_ds_model = joblib.load(root_top + "Disease Model" + '/random_forest_model.pkl')
-nb_ds_model = joblib.load(root_top + "Disease Model" + '/nb_model.pkl')
-svm_ds = joblib.load(root_top + "Disease Model" + '/svm.pkl')
+rf_ds_model = joblib.load(root_top + "/Disease Model" + '/random_forest_model.pkl')
+nb_ds_model = joblib.load(root_top + "/Disease Model" + '/nb_model.pkl')
+svm_ds = joblib.load(root_top + "/Disease Model" + '/svm.pkl')
 # Advisor Model
-rf_model = joblib.load(root_top + "Advisor Model" + '/random_forest_model.pkl')
-dt_model = joblib.load(root_top + 'Advisor Model' + '/decision_tree_model.pkl')
-nb_model = joblib.load(root_top + 'Advisor Model' + '/nb_model.pkl')
-svm = joblib.load(root_top + 'Advisor Model' + '/svm.pkl')
+rf_model = joblib.load(root_top + "/Advisor Model" + '/random_forest_model.pkl')
+dt_model = joblib.load(root_top + '/Advisor Model' + '/decision_tree_model.pkl')
+nb_model = joblib.load(root_top + '/Advisor Model' + '/nb_model.pkl')
+svm = joblib.load(root_top + '/Advisor Model' + '/svm.pkl')
 
 @app.route("/")
 def home():
