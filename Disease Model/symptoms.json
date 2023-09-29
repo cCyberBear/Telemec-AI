@@ -1,0 +1,788 @@
+[
+    {
+        "id": 1,
+        "name": "Itching",
+        "key": "itching",
+        "vietnamese_meaning": "Ngứa"
+    },
+    {
+        "id": 2,
+        "name": "Skin Rash",
+        "key": "skin_rash",
+        "vietnamese_meaning": "Phát ban da"
+    },
+    {
+        "id": 3,
+        "name": "Nodal Skin Eruptions",
+        "key": "nodal_skin_eruptions",
+        "vietnamese_meaning": "Nodal Da phun trào"
+    },
+    {
+        "id": 4,
+        "name": "Dischromic Patches",
+        "key": "dischromic_patches",
+        "vietnamese_meaning": "Các bản vá không phân biệt"
+    },
+    {
+        "id": 5,
+        "name": "Continuous Sneezing",
+        "key": "continuous_sneezing",
+        "vietnamese_meaning": "Hắt hơi liên tục"
+    },
+    {
+        "id": 6,
+        "name": "Shivering",
+        "key": "shivering",
+        "vietnamese_meaning": "Rùng mình"
+    },
+    {
+        "id": 7,
+        "name": "Chills",
+        "key": "chills",
+        "vietnamese_meaning": "Ớn lạnh"
+    },
+    {
+        "id": 8,
+        "name": "Watering From Eyes",
+        "key": "watering_from_eyes",
+        "vietnamese_meaning": "Tưới nước từ mắt"
+    },
+    {
+        "id": 9,
+        "name": "Stomach Pain",
+        "key": "stomach_pain",
+        "vietnamese_meaning": "Đau bụng"
+    },
+    {
+        "id": 10,
+        "name": "Acidity",
+        "key": "acidity",
+        "vietnamese_meaning": "Tính axit"
+    },
+    {
+        "id": 11,
+        "name": "Ulcers On Tongue",
+        "key": "ulcers_on_tongue",
+        "vietnamese_meaning": "Loét trên lưỡi"
+    },
+    {
+        "id": 12,
+        "name": "Vomiting",
+        "key": "vomiting",
+        "vietnamese_meaning": "Nôn"
+    },
+    {
+        "id": 13,
+        "name": "Cough",
+        "key": "cough",
+        "vietnamese_meaning": "Ho"
+    },
+    {
+        "id": 14,
+        "name": "Chest Pain",
+        "key": "chest_pain",
+        "vietnamese_meaning": "Đau ngực"
+    },
+    {
+        "id": 15,
+        "name": "Yellowish Skin",
+        "key": "yellowish_skin",
+        "vietnamese_meaning": "Da vàng"
+    },
+    {
+        "id": 16,
+        "name": "Nausea",
+        "key": "nausea",
+        "vietnamese_meaning": "Buồn nôn"
+    },
+    {
+        "id": 17,
+        "name": "Loss Of Appetite",
+        "key": "loss_of_appetite",
+        "vietnamese_meaning": "Ăn mất ngon"
+    },
+    {
+        "id": 18,
+        "name": "Abdominal Pain",
+        "key": "abdominal_pain",
+        "vietnamese_meaning": "Đau bụng"
+    },
+    {
+        "id": 19,
+        "name": "Yellowing Of Eyes",
+        "key": "yellowing_of_eyes",
+        "vietnamese_meaning": "Màu vàng của đôi mắt"
+    },
+    {
+        "id": 20,
+        "name": "Burning Micturition",
+        "key": "burning_micturition",
+        "vietnamese_meaning": "Đốt cháy Micturition"
+    },
+    {
+        "id": 21,
+        "name": "Spotting Urination",
+        "key": "spotting_urination",
+        "vietnamese_meaning": "Phát hiện đi tiểu"
+    },
+    {
+        "id": 22,
+        "name": "Passage Of Gases",
+        "key": "passage_of_gases",
+        "vietnamese_meaning": "Thông qua khí"
+    },
+    {
+        "id": 23,
+        "name": "Internal Itching",
+        "key": "internal_itching",
+        "vietnamese_meaning": "Ngứa nội bộ"
+    },
+    {
+        "id": 24,
+        "name": "Indigestion",
+        "key": "indigestion",
+        "vietnamese_meaning": "Khó tiêu"
+    },
+    {
+        "id": 25,
+        "name": "Muscle Wasting",
+        "key": "muscle_wasting",
+        "vietnamese_meaning": "Lãng phí cơ bắp"
+    },
+    {
+        "id": 26,
+        "name": "Patches In Throat",
+        "key": "patches_in_throat",
+        "vietnamese_meaning": "Bản vá trong cổ họng"
+    },
+    {
+        "id": 27,
+        "name": "High Fever",
+        "key": "high_fever",
+        "vietnamese_meaning": "Sốt cao"
+    },
+    {
+        "id": 28,
+        "name": "Extra Marital Contacts",
+        "key": "extra_marital_contacts",
+        "vietnamese_meaning": "Liên hệ hôn nhân thêm"
+    },
+    {
+        "id": 29,
+        "name": "Fatigue",
+        "key": "fatigue",
+        "vietnamese_meaning": "Mệt mỏi"
+    },
+    {
+        "id": 30,
+        "name": "Weight Loss",
+        "key": "weight_loss",
+        "vietnamese_meaning": "Giảm cân"
+    },
+    {
+        "id": 31,
+        "name": "Restlessness",
+        "key": "restlessness",
+        "vietnamese_meaning": "Bồn chồn"
+    },
+    {
+        "id": 32,
+        "name": "Lethargy",
+        "key": "lethargy",
+        "vietnamese_meaning": "Lethargy"
+    },
+    {
+        "id": 33,
+        "name": "Irregular Sugar Level",
+        "key": "irregular_sugar_level",
+        "vietnamese_meaning": "Mức đường không đều"
+    },
+    {
+        "id": 34,
+        "name": "Blurred And Distorted Vision",
+        "key": "blurred_and_distorted_vision",
+        "vietnamese_meaning": "Tầm nhìn mờ và méo mó"
+    },
+    {
+        "id": 35,
+        "name": "Obesity",
+        "key": "obesity",
+        "vietnamese_meaning": "Béo phì"
+    },
+    {
+        "id": 36,
+        "name": "Excessive Hunger",
+        "key": "excessive_hunger",
+        "vietnamese_meaning": "Đói quá mức"
+    },
+    {
+        "id": 37,
+        "name": "Increased Appetite",
+        "key": "increased_appetite",
+        "vietnamese_meaning": "Tăng khẩu vị"
+    },
+    {
+        "id": 38,
+        "name": "Polyuria",
+        "key": "polyuria",
+        "vietnamese_meaning": "Đa niệu"
+    },
+    {
+        "id": 39,
+        "name": "Sunken Eyes",
+        "key": "sunken_eyes",
+        "vietnamese_meaning": "Mắt chìm"
+    },
+    {
+        "id": 40,
+        "name": "Dehydration",
+        "key": "dehydration",
+        "vietnamese_meaning": "Mất nước"
+    },
+    {
+        "id": 41,
+        "name": "Diarrhoea",
+        "key": "diarrhoea",
+        "vietnamese_meaning": "Bệnh tiêu chảy"
+    },
+    {
+        "id": 42,
+        "name": "Breathlessness",
+        "key": "breathlessness",
+        "vietnamese_meaning": "Hơi thở"
+    },
+    {
+        "id": 43,
+        "name": "Family History",
+        "key": "family_history",
+        "vietnamese_meaning": "Lịch sử gia đình"
+    },
+    {
+        "id": 44,
+        "name": "Mucoid Sputum",
+        "key": "mucoid_sputum",
+        "vietnamese_meaning": "Núm vú"
+    },
+    {
+        "id": 45,
+        "name": "Headache",
+        "key": "headache",
+        "vietnamese_meaning": "Đau đầu"
+    },
+    {
+        "id": 46,
+        "name": "Dizziness",
+        "key": "dizziness",
+        "vietnamese_meaning": "Chóng mặt"
+    },
+    {
+        "id": 47,
+        "name": "Loss Of Balance",
+        "key": "loss_of_balance",
+        "vietnamese_meaning": "Mất thăng bằng"
+    },
+    {
+        "id": 48,
+        "name": "Lack Of Concentration",
+        "key": "lack_of_concentration",
+        "vietnamese_meaning": "Thiếu nồng độ"
+    },
+    {
+        "id": 49,
+        "name": "Stiff Neck",
+        "key": "stiff_neck",
+        "vietnamese_meaning": "Cổ cứng"
+    },
+    {
+        "id": 50,
+        "name": "Depression",
+        "key": "depression",
+        "vietnamese_meaning": "Trầm cảm"
+    },
+    {
+        "id": 51,
+        "name": "Irritability",
+        "key": "irritability",
+        "vietnamese_meaning": "Cáu gắt"
+    },
+    {
+        "id": 52,
+        "name": "Visual Disturbances",
+        "key": "visual_disturbances",
+        "vietnamese_meaning": "Rối loạn thị giác"
+    },
+    {
+        "id": 53,
+        "name": "Back Pain",
+        "key": "back_pain",
+        "vietnamese_meaning": "Đau lưng"
+    },
+    {
+        "id": 54,
+        "name": "Weakness In Limbs",
+        "key": "weakness_in_limbs",
+        "vietnamese_meaning": "Điểm yếu trong chi"
+    },
+    {
+        "id": 55,
+        "name": "Neck Pain",
+        "key": "neck_pain",
+        "vietnamese_meaning": "Đau cổ"
+    },
+    {
+        "id": 56,
+        "name": "Weakness Of One Body Side",
+        "key": "weakness_of_one_body_side",
+        "vietnamese_meaning": "Điểm yếu của một bên cơ thể"
+    },
+    {
+        "id": 57,
+        "name": "Altered Sensorium",
+        "key": "altered_sensorium",
+        "vietnamese_meaning": "Thay đổi cảm biến"
+    },
+    {
+        "id": 58,
+        "name": "Dark Urine",
+        "key": "dark_urine",
+        "vietnamese_meaning": "Nước tiểu đậm"
+    },
+    {
+        "id": 59,
+        "name": "Sweating",
+        "key": "sweating",
+        "vietnamese_meaning": "Đổ mồ hôi"
+    },
+    {
+        "id": 60,
+        "name": "Muscle Pain",
+        "key": "muscle_pain",
+        "vietnamese_meaning": "Đau cơ"
+    },
+    {
+        "id": 61,
+        "name": "Mild Fever",
+        "key": "mild_fever",
+        "vietnamese_meaning": "Sốt nhẹ"
+    },
+    {
+        "id": 62,
+        "name": "Swelled Lymph Nodes",
+        "key": "swelled_lymph_nodes",
+        "vietnamese_meaning": "Các hạch bạch huyết sưng"
+    },
+    {
+        "id": 63,
+        "name": "Malaise",
+        "key": "malaise",
+        "vietnamese_meaning": "Bất ổn"
+    },
+    {
+        "id": 64,
+        "name": "Red Spots Over Body",
+        "key": "red_spots_over_body",
+        "vietnamese_meaning": "Đốm đỏ trên cơ thể"
+    },
+    {
+        "id": 65,
+        "name": "Joint Pain",
+        "key": "joint_pain",
+        "vietnamese_meaning": "Đau khớp"
+    },
+    {
+        "id": 66,
+        "name": "Pain Behind The Eyes",
+        "key": "pain_behind_the_eyes",
+        "vietnamese_meaning": "Nỗi đau sau mắt"
+    },
+    {
+        "id": 67,
+        "name": "Constipation",
+        "key": "constipation",
+        "vietnamese_meaning": "Táo bón"
+    },
+    {
+        "id": 68,
+        "name": "Toxic Look (typhos)",
+        "key": "toxic_look_(typhos)",
+        "vietnamese_meaning": "Vẻ ngoài độc hại (Typhos)"
+    },
+    {
+        "id": 69,
+        "name": "Belly Pain",
+        "key": "belly_pain",
+        "vietnamese_meaning": "Đau bụng"
+    },
+    {
+        "id": 70,
+        "name": "Yellow Urine",
+        "key": "yellow_urine",
+        "vietnamese_meaning": "Nước tiểu màu vàng"
+    },
+    {
+        "id": 71,
+        "name": "Receiving Blood Transfusion",
+        "key": "receiving_blood_transfusion",
+        "vietnamese_meaning": "Nhận truyền máu"
+    },
+    {
+        "id": 72,
+        "name": "Receiving Unsterile Injections",
+        "key": "receiving_unsterile_injections",
+        "vietnamese_meaning": "Nhận được tiêm không bằng cấp"
+    },
+    {
+        "id": 73,
+        "name": "Coma",
+        "key": "coma",
+        "vietnamese_meaning": "Hôn mê"
+    },
+    {
+        "id": 74,
+        "name": "Stomach Bleeding",
+        "key": "stomach_bleeding",
+        "vietnamese_meaning": "Chảy máu dạ dày"
+    },
+    {
+        "id": 75,
+        "name": "Acute Liver Failure",
+        "key": "acute_liver_failure",
+        "vietnamese_meaning": "Suy gan cấp tính"
+    },
+    {
+        "id": 76,
+        "name": "Swelling Of Stomach",
+        "key": "swelling_of_stomach",
+        "vietnamese_meaning": "Sưng dạ dày"
+    },
+    {
+        "id": 77,
+        "name": "Distention Of Abdomen",
+        "key": "distention_of_abdomen",
+        "vietnamese_meaning": "Sự xáo trộn của bụng"
+    },
+    {
+        "id": 78,
+        "name": "History Of Alcohol Consumption",
+        "key": "history_of_alcohol_consumption",
+        "vietnamese_meaning": "Lịch sử tiêu thụ rượu"
+    },
+    {
+        "id": 79,
+        "name": "Fluid Overload",
+        "key": "fluid_overload",
+        "vietnamese_meaning": "Tình trạng quá tải chất lỏng"
+    },
+    {
+        "id": 80,
+        "name": "Phlegm",
+        "key": "phlegm",
+        "vietnamese_meaning": "Legm"
+    },
+    {
+        "id": 81,
+        "name": "Blood In Sputum",
+        "key": "blood_in_sputum",
+        "vietnamese_meaning": "Máu trong đờm"
+    },
+    {
+        "id": 82,
+        "name": "Throat Irritation",
+        "key": "throat_irritation",
+        "vietnamese_meaning": "Viêm họng"
+    },
+    {
+        "id": 83,
+        "name": "Redness Of Eyes",
+        "key": "redness_of_eyes",
+        "vietnamese_meaning": "Mắt đỏ"
+    },
+    {
+        "id": 84,
+        "name": "Sinus Pressure",
+        "key": "sinus_pressure",
+        "vietnamese_meaning": "Áp lực xoang"
+    },
+    {
+        "id": 85,
+        "name": "Runny Nose",
+        "key": "runny_nose",
+        "vietnamese_meaning": "Sổ mũi"
+    },
+    {
+        "id": 86,
+        "name": "Congestion",
+        "key": "congestion",
+        "vietnamese_meaning": "Sự tắc nghẽn"
+    },
+    {
+        "id": 87,
+        "name": "Loss Of Smell",
+        "key": "loss_of_smell",
+        "vietnamese_meaning": "Mất mùi"
+    },
+    {
+        "id": 88,
+        "name": "Fast Heart Rate",
+        "key": "fast_heart_rate",
+        "vietnamese_meaning": "Nhịp tim nhanh"
+    },
+    {
+        "id": 89,
+        "name": "Rusty Sputum",
+        "key": "rusty_sputum",
+        "vietnamese_meaning": "Đờm gỉ"
+    },
+    {
+        "id": 90,
+        "name": "Pain During Bowel Movements",
+        "key": "pain_during_bowel_movements",
+        "vietnamese_meaning": "Đau đớn trong khi đi tiêu"
+    },
+    {
+        "id": 91,
+        "name": "Pain In Anal Region",
+        "key": "pain_in_anal_region",
+        "vietnamese_meaning": "Đau ở vùng hậu môn"
+    },
+    {
+        "id": 92,
+        "name": "Bloody Stool",
+        "key": "bloody_stool",
+        "vietnamese_meaning": "Phân có máu"
+    },
+    {
+        "id": 93,
+        "name": "Irritation In Anus",
+        "key": "irritation_in_anus",
+        "vietnamese_meaning": "Kích thích trong hậu môn"
+    },
+    {
+        "id": 94,
+        "name": "Cramps",
+        "key": "cramps",
+        "vietnamese_meaning": "Chuột rút"
+    },
+    {
+        "id": 95,
+        "name": "Bruising",
+        "key": "bruising",
+        "vietnamese_meaning": "Bầm tím"
+    },
+    {
+        "id": 96,
+        "name": "Swollen Legs",
+        "key": "swollen_legs",
+        "vietnamese_meaning": "Chân sưng"
+    },
+    {
+        "id": 97,
+        "name": "Swollen Blood Vessels",
+        "key": "swollen_blood_vessels",
+        "vietnamese_meaning": "Tàu máu sưng"
+    },
+    {
+        "id": 98,
+        "name": "Prominent Veins On Calf",
+        "key": "prominent_veins_on_calf",
+        "vietnamese_meaning": "Tĩnh mạch nổi bật trên bắp chân"
+    },
+    {
+        "id": 99,
+        "name": "Weight Gain",
+        "key": "weight_gain",
+        "vietnamese_meaning": "Tăng cân"
+    },
+    {
+        "id": 100,
+        "name": "Cold Hands And Feets",
+        "key": "cold_hands_and_feets",
+        "vietnamese_meaning": "Bàn tay lạnh và feets"
+    },
+    {
+        "id": 101,
+        "name": "Mood Swings",
+        "key": "mood_swings",
+        "vietnamese_meaning": "Tâm trạng lâng lâng"
+    },
+    {
+        "id": 102,
+        "name": "Puffy Face And Eyes",
+        "key": "puffy_face_and_eyes",
+        "vietnamese_meaning": "Khuôn mặt và đôi mắt sưng húp"
+    },
+    {
+        "id": 103,
+        "name": "Enlarged Thyroid",
+        "key": "enlarged_thyroid",
+        "vietnamese_meaning": "Tuyến giáp mở rộng"
+    },
+    {
+        "id": 104,
+        "name": "Brittle Nails",
+        "key": "brittle_nails",
+        "vietnamese_meaning": "Móng tay dễ gãy"
+    },
+    {
+        "id": 105,
+        "name": "Swollen Extremeties",
+        "key": "swollen_extremeties",
+        "vietnamese_meaning": "Tỷ lệ bị sưng"
+    },
+    {
+        "id": 106,
+        "name": "Abnormal Menstruation",
+        "key": "abnormal_menstruation",
+        "vietnamese_meaning": "Kinh nguyệt bất thường"
+    },
+    {
+        "id": 107,
+        "name": "Muscle Weakness",
+        "key": "muscle_weakness",
+        "vietnamese_meaning": "Yếu cơ"
+    },
+    {
+        "id": 108,
+        "name": "Anxiety",
+        "key": "anxiety",
+        "vietnamese_meaning": "Sự lo lắng"
+    },
+    {
+        "id": 109,
+        "name": "Slurred Speech",
+        "key": "slurred_speech",
+        "vietnamese_meaning": "Nói lắp"
+    },
+    {
+        "id": 110,
+        "name": "Palpitations",
+        "key": "palpitations",
+        "vietnamese_meaning": "Đánh trống ngực"
+    },
+    {
+        "id": 111,
+        "name": "Drying And Tingling Lips",
+        "key": "drying_and_tingling_lips",
+        "vietnamese_meaning": "Môi khô và ngứa ran"
+    },
+    {
+        "id": 112,
+        "name": "Knee Pain",
+        "key": "knee_pain",
+        "vietnamese_meaning": "Đau đầu gối"
+    },
+    {
+        "id": 113,
+        "name": "Hip Joint Pain",
+        "key": "hip_joint_pain",
+        "vietnamese_meaning": "Đau khớp hông"
+    },
+    {
+        "id": 114,
+        "name": "Swelling Joints",
+        "key": "swelling_joints",
+        "vietnamese_meaning": "Khớp sưng"
+    },
+    {
+        "id": 115,
+        "name": "Painful Walking",
+        "key": "painful_walking",
+        "vietnamese_meaning": "Đi bộ đau đớn"
+    },
+    {
+        "id": 116,
+        "name": "Movement Stiffness",
+        "key": "movement_stiffness",
+        "vietnamese_meaning": "Độ cứng chuyển động"
+    },
+    {
+        "id": 117,
+        "name": "Spinning Movements",
+        "key": "spinning_movements",
+        "vietnamese_meaning": "Chuyển động quay"
+    },
+    {
+        "id": 118,
+        "name": "Unsteadiness",
+        "key": "unsteadiness",
+        "vietnamese_meaning": "Sự không ổn định"
+    },
+    {
+        "id": 119,
+        "name": "Pus Filled Pimples",
+        "key": "pus_filled_pimples",
+        "vietnamese_meaning": "Mủ đầy mụn nhọt"
+    },
+    {
+        "id": 120,
+        "name": "Blackheads",
+        "key": "blackheads",
+        "vietnamese_meaning": "Mụn đầu đen"
+    },
+    {
+        "id": 121,
+        "name": "Scurring",
+        "key": "scurring",
+        "vietnamese_meaning": "Chạy răng"
+    },
+    {
+        "id": 122,
+        "name": "Bladder Discomfort",
+        "key": "bladder_discomfort",
+        "vietnamese_meaning": "Bàng quang khó chịu"
+    },
+    {
+        "id": 123,
+        "name": "Foul Smell Ofurine",
+        "key": "foul_smell_ofurine",
+        "vietnamese_meaning": "Mùi nước tiểu hôi"
+    },
+    {
+        "id": 124,
+        "name": "Continuous Feel Of Urine",
+        "key": "continuous_feel_of_urine",
+        "vietnamese_meaning": "Cảm giác liên tục của nước tiểu"
+    },
+    {
+        "id": 125,
+        "name": "Skin Peeling",
+        "key": "skin_peeling",
+        "vietnamese_meaning": "Da bong tróc"
+    },
+    {
+        "id": 126,
+        "name": "Silver Like Dusting",
+        "key": "silver_like_dusting",
+        "vietnamese_meaning": "Bạc như bụi"
+    },
+    {
+        "id": 127,
+        "name": "Small Dents In Nails",
+        "key": "small_dents_in_nails",
+        "vietnamese_meaning": "Vết lõm nhỏ trong móng tay"
+    },
+    {
+        "id": 128,
+        "name": "Inflammatory Nails",
+        "key": "inflammatory_nails",
+        "vietnamese_meaning": "Viêm móng tay"
+    },
+    {
+        "id": 129,
+        "name": "Blister",
+        "key": "blister",
+        "vietnamese_meaning": "Mụn rộp"
+    },
+    {
+        "id": 130,
+        "name": "Red Sore Around Nose",
+        "key": "red_sore_around_nose",
+        "vietnamese_meaning": "Đau đỏ quanh mũi"
+    },
+    {
+        "id": 131,
+        "name": "Yellow Crust Ooze",
+        "key": "yellow_crust_ooze",
+        "vietnamese_meaning": "Lớp vỏ màu vàng ooze"
+    }
+]
